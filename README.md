@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MoesDev... also known as MoMo or Money to friends.
 - 👀 I’m interested in growing my knowledge, career, and community in the dev world.
-- 🌱 I’m currently brushing up on my skills in basics, Python, and React... Always keep learning 😎🧑‍🎓
+- 🌱 I’m currently brushing up on my skills in basics, C#, Python... Always keep learning 😎🧑‍🎓
 - 💞️ Preparing to join a team of like minded peers
 - 📫 
 
